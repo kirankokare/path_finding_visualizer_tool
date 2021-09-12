@@ -1,1 +1,1 @@
-# path_findind_visualizer_tool
+# path_finding_visualizer_tool
